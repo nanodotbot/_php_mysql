@@ -1,0 +1,1 @@
+<?= 'require: error, if it fails, execution of code stops' ?>

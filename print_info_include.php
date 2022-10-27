@@ -1,0 +1,1 @@
+<?= 'include: error, if it fails, rest of code will be executed' ?>
